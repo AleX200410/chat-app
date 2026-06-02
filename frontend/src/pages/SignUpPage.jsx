@@ -17,7 +17,7 @@ function SignUpPage() {
         <div className="w-full flex items-center justify-center p-4 bg-slate-900">
             <div className="relative w-full max-w-6xl md:h-[800px] h-[650px]">
                 <BorderAnimatedContainer>
-                    <div className="p-8 flex items-center justify-center">
+                    <div className="p-8 flex items-center justify-center mx-auto">
                         <div className="w-full max-w-md">
                             {/* HEADING TEXT */}
                             <div className="text-center mb-8">
